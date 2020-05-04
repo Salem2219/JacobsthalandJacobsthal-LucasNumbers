@@ -56,7 +56,7 @@ These examples use [ModelSim&reg; and Quartus&reg; Prime from Intel FPGA](http:/
     $ vcom *.vhd
     ```
     
-5. Simulate your design. For example, if n = 9, then y = 5:
+5. Simulate your design. For example, if n = 5, then Jacobsthal = 11, Jacobsthal_Lucas = 31:
 
     ```sh
     $ vsim work.tb
